@@ -1,0 +1,22 @@
+h1{
+  color: #b29600;
+  font-family: 'Oswald' , sans-serif;
+  text-align: center;
+}
+h2{
+  color: #b29600;
+  font-family: 'Oswald', sans-serif;
+}
+p,ul,ol{
+  color: red;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 22px;
+}
+
+.img-responsive {
+  border radius: 100%;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
