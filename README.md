@@ -1,4 +1,4 @@
-# goodbye
+# cookie recipe
 
 #### HTML practice, 10/10/14
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-This was a practice website in HTML which displays the word "Goodbye" in several languages.
+This was a practice website in HTML which displays a favorite recipe
 
 ## Setup/Installation Requirements
 
